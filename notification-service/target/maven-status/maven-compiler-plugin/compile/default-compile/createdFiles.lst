@@ -1,0 +1,5 @@
+com\example\notificationservice\controller\NotificationController.class
+com\example\notificationservice\dto\UserEventDto.class
+com\example\notificationservice\config\KafkaConsumer.class
+com\example\notificationservice\service\EmailService.class
+com\example\notificationservice\NotificationServiceApplication.class
